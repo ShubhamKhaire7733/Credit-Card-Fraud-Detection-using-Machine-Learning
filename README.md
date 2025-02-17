@@ -36,5 +36,5 @@ Multiple machine learning models were implemented for fraud detection, including
 ## 🚀 How to Run  
 1️⃣ **Clone the Repository**  
 ```bash  
-git clone https://github.com/your-username/fraud-detection.git  
-cd fraud-detection  
+git clone https://github.com/ShubhamKhaire7733/Online_Payments_Fraud_Detection_with_Machine_Learning.git  
+cd Online_Payments_Fraud_Detection_with_Machine_Learning  
