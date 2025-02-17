@@ -37,4 +37,16 @@ Multiple machine learning models were implemented for fraud detection, including
 1️⃣ **Clone the Repository**  
 ```bash  
 git clone https://github.com/ShubhamKhaire7733/Online_Payments_Fraud_Detection_with_Machine_Learning.git  
-cd Online_Payments_Fraud_Detection_with_Machine_Learning  
+cd Online_Payments_Fraud_Detection_with_Machine_Learning
+
+2️⃣ **Install Dependencies**
+# Install the required Python libraries
+pip install -r requirements.txt
+
+# 3️⃣ Train the Model
+# Run fraud_detection_model.py to train models on the dataset
+python fraud_detection_model.py
+
+# 4️⃣ Test the Model
+# Run the model on new data
+python test_model.py --data path/to/test_data.csv
