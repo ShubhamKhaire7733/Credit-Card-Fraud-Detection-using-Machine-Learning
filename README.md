@@ -54,3 +54,17 @@ python Online_Payments_Fraud_Detection_with_Machine_Learning.py
 # Run the model on new data
 python test_model.py --data path/to/test_data.csv
 ```
+## 📌 Results & Insights  
+- The model successfully predicts fraudulent transactions.  
+- Data preprocessing and **cross-validation** significantly improved model accuracy.  
+- **Plotly** was used to visualize transaction distributions and model insights.
+
+**Future Improvements**:  
+- Incorporate **ensemble methods** for better model accuracy.  
+- Implement **real-time fraud detection** and monitoring.
+
+## 🔗 **Connect & Contribute**  
+Feel free to contribute! Open an issue or pull request. 😊  
+
+📧 **Contact**: [shubhamkhaire7733@gmail.com]  
+🌐 **GitHub**: [ShubhamKhaire7733]
