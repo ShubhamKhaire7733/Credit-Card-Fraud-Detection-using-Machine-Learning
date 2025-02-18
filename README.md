@@ -67,4 +67,4 @@ python test_model.py --data path/to/test_data.csv
 Feel free to contribute! Open an issue or pull request. 😊  
 
 📧 **Contact**: [shubhamkhaire7733@gmail.com]  
-🌐 **GitHub**: [ShubhamKhaire7733]
+🌐 **GitHub**: [https://github.com/ShubhamKhaire7733]
